@@ -62,4 +62,6 @@ if has('syntax')
 endif
 
 
+:colorscheme elflord
+
 
